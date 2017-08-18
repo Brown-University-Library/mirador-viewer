@@ -1,6 +1,6 @@
 # mirador-viewer
 
-[![Build Status](https://travis-ci.org/colehansen/mirador-viewer.svg)](https://travis-ci.org/colehansen/mirador-viewer)
+[![Build Status](https://travis-ci.org/Brown-University-Library/mirador-viewer.svg)](https://travis-ci.org/Brown-University-Library/mirador-viewer)
 
 A Polymer custom element component to encapsulate a Mirador viewer instance.
 
